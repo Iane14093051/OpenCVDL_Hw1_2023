@@ -58,7 +58,7 @@ Performs image transformations:
 - **Rotation, Scaling, and Translation**: Apply rotation, scaling, and translation to an image with adjustable parameters.
 
 ### 5. VGG19
-Deep learning features using the VGG19 model:
+Provides four features for classifying images into 10 different classes in CIFAR-10:
 - **Show Augmented Images**: Displays nine augmented images from the `Q5_image/Q5_1` directory.
 - **Show VGG19 Model Structure**: Displays the architecture of the VGG19 with Batch Normalization.
 - **Show Training/Validation Accuracy and Loss**: Displays a graph of training and validation accuracy/loss.
