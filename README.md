@@ -26,6 +26,12 @@ This repository contains the implementation of Homework 1 for the **Introduction
 
 Once the application (`hw1.0.py`) is running, the UI is divided into five sections: **Image Processing**, **Image Smoothing**, **Edge Detection**, **Transforms**, and **VGG19**.
 
+## Train VGG19 model
+   ```bash
+   $ python py.py
+   ```
+
+
 ### 1. Image Processing
 Offers three features:
 - **Color Separation**: Extract and display the three BGR channels of "rgb.jpg" as separate grayscale images.
