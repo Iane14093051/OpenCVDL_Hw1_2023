@@ -11,7 +11,7 @@ This repository contains the implementation of Homework 1 for the **Introduction
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/hsylin/OpenCVDL_Hw1.git
+   $ git clone https://github.com/Iane14093051/OpenCVDL_Hw1_2023.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -19,12 +19,12 @@ This repository contains the implementation of Homework 1 for the **Introduction
    ```
 3. Run the application:
    ```bash
-   $ python hw1.py
+   $ python hw1.0.py
    ```
 
 ## Application Features
 
-Once the application (`hw1.py`) is running, the UI is divided into five sections: **Image Processing**, **Image Smoothing**, **Edge Detection**, **Transforms**, and **VGG19**.
+Once the application (`hw1.0.py`) is running, the UI is divided into five sections: **Image Processing**, **Image Smoothing**, **Edge Detection**, **Transforms**, and **VGG19**.
 
 ### 1. Image Processing
 Offers three features:
