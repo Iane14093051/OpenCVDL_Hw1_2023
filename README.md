@@ -1,7 +1,8 @@
 # Course Assignments
 
 This repository contains the implementation of Homework 1 for the **Introduction to Image Processing, Computer Vision, and Deep Learning** course at NCKU CSIE, 2023.
-More infomation :[Slide](https://github.com/Iane14093051/OpenCVDL_Hw1_2023/raw/refs/heads/main/OpenCv_Hw_1_Q_20231024_V1B4.pptx)
+
+More infomation: [Slide](https://github.com/Iane14093051/OpenCVDL_Hw1_2023/raw/refs/heads/main/OpenCv_Hw_1_Q_20231024_V1B4.pptx)
 
 ## Environment
 
