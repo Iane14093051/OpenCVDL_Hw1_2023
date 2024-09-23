@@ -63,3 +63,6 @@ Provides four features for classifying images into 10 different classes in CIFAR
 - **Show VGG19 Model Structure**: Displays the architecture of the VGG19 with Batch Normalization.
 - **Show Training/Validation Accuracy and Loss**: Displays a graph of training and validation accuracy/loss.
 - **Inference**: Load an image and use the trained model to classify it, displaying the predicted class label and probability distribution.
+
+### Demo Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dm82mnvCuOw&ab/0.jpg)](https://www.youtube.com/watch?v=dm82mnvCuOw&ab)
